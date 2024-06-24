@@ -1,0 +1,35 @@
+package J003_statements;
+
+public class S001_If {
+	public static void main(String[] args) {
+		
+//		ex  :1
+//		int age = 25;
+//		if(age>18)
+//		{
+//			System.out.println("elegeble...");
+//		}
+//		else
+//		{
+//			System.out.println("Not elegeble for voting");
+//		}
+		
+		
+		//Ex :2
+		
+		int a = 100;
+		int b = 20;
+		
+		
+		if(a>b)
+		{
+			System.out.println("a is greater");
+		}
+		else
+		{
+			System.out.println("b is greater");
+		}
+		
+		
+	}
+}

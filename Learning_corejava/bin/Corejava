@@ -58,7 +58,19 @@ unary :
 Turnary : 
 condtion ?true : false
 
+***********************************
+Statements :
 
+condtional
+------------------
+if - else
+switch - case
+
+looping
+--------------
+for
+while
+do-while
 
 
 

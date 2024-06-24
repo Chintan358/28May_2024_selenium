@@ -1,0 +1,17 @@
+package J003_statements;
+
+public class S005_While {
+	public static void main(String[] args) {
+		
+		
+		int i = 5;
+		
+		while(i<10)
+		{
+			System.out.println(i);
+			i++;
+		}
+		
+		
+	}
+}

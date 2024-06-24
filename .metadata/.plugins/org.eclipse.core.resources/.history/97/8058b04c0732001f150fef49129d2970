@@ -1,0 +1,21 @@
+package J003_statements;
+
+public class S003_Switchcase {
+	public static void main(String[] args) {
+
+		int choice = 1;
+
+		switch (choice) {
+
+		case 1:
+			System.out.println("English");
+		case 2:
+			System.out.println("Hindi");
+		case 3:
+			System.out.println("Gujarati");
+		default:
+			System.out.println("Invalid choice");
+		}
+
+	}
+}

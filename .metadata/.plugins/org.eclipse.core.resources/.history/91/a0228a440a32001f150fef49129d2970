@@ -1,0 +1,17 @@
+package practice;
+
+import java.util.Scanner;
+
+public class Practice1 {
+	public static void main(String[] args) {
+		
+		Scanner sc =new Scanner(System.in);
+		int a =sc.nextInt();
+		System.out.println("enter Number for the Table");
+//		for(a=0;a>=10;a++) 
+//		{
+//			System.out.println("a");
+//		}
+		
+	}
+}
