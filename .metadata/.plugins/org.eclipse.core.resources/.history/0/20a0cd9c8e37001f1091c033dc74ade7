@@ -1,0 +1,21 @@
+package J004_array;
+
+public class A005_MdArray {
+	public static void main(String[] args) {
+		
+		
+		int a[][] = new int[3][5];
+		
+		
+		a[0][0] = 10;
+		a[0][1] = 12;
+		a[0][2] = 10;
+		a[0][3] = 12;
+		a[0][4] = 10;
+	
+		
+		
+		
+		
+	}
+}

@@ -1,6 +1,0 @@
-Variables or Identifiers : 
-**************************************
-In Java, Variables are the data containers that save the data values during 
-Java program execution. Every Variable in Java is assigned a data type that 
-designates the type and quantity of value it can hold. A variable is a memory
-location name for thedata.
