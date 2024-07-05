@@ -90,10 +90,50 @@ types of araay :
 1 d array
 multi d array
 
+***********************
+OOPS : 
+
+Object oriented programming
+**********************************
+class
+object
+encaptulation
+inheritance
+polumorphism
+abstraction
 
 
+Object  : real time entity
+Class : logical entity
+
+class Demo
+{
+	.......class body.....
+	//datamemeber
+	//function memeber
+}
+
+object : 
+ Demo d = new Demo();
+ 
+Property of class : 
+
+Data memeber / Variable / field
+Functio memeber / method / function
 
 
+accessmodifie returntype*  functionname*(args)
+{
+	logic
+}
+
+ex : public void display()
+	{
+		*********
+		}
+
+class members can be of 2 types : 
+static and non-static
 
 
 

@@ -1,0 +1,33 @@
+package oops;
+
+class Student
+{
+	int id;
+	String name;
+	String clg;
+	
+	Student()
+	{
+		System.out.println("constructor calling...");
+	}
+	
+	Student(int a)
+	{
+		System.out.println(a);
+	}
+	
+	public void display()
+	{
+		System.out.println(id+" "+name+" "+clg);
+	}
+}
+
+public class O002_constructor {
+	public static void main(String[] args) {
+		
+		
+		Student s1 = new Student(10);
+		s1.display();
+		
+	}
+}
