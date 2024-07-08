@@ -1,6 +1,8 @@
 package pettern;
 
-public class P1 {
+import J005_oops.Access;
+
+public class P1   {
 	public static void main(String[] args) {
 		
 //		*****
@@ -34,8 +36,8 @@ public class P1 {
 		}
 		
 	
-		
-		
+
+	
 		
 		
 	}

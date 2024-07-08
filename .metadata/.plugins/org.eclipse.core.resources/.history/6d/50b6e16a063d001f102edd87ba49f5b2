@@ -1,0 +1,36 @@
+package J005_oops;
+
+
+class Pen1
+{
+	int price = 50;
+	String color = "Red";
+	String company = "Cello";
+	
+	
+	public void toWrite()
+	{
+		System.out.println(price+" "+color+" "+company);
+	}
+	
+}
+
+
+class Notebook extends Pen1
+{
+	price = 100;
+	
+	int pages = 50;
+	public void todisplay()
+	{
+		System.out.println(price+" "+color+" "+company+" "+pages);
+	}
+}
+
+public class O005_InheritanceDemo {
+	public static void main(String[] args) {
+		
+	}
+}
+
+

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;oops&apos; to &apos;J005_oops&apos;&#x0D;&#x0A;- Original project: &apos;Learning_corejava&apos;&#x0D;&#x0A;- Original element: &apos;Learning_corejava/src/oops&apos;&#x0D;&#x0A;- Renamed element: &apos;Learning_corejava/src/J005_oops&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;oops&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;oops" name="J005_oops" qualified="false" references="true" stamp="1720427659028" textual="false" version="1.0"/>
+</session>

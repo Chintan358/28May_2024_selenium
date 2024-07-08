@@ -5,4 +5,13 @@
     <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="oops.Pen"/>
     <fullyQualifiedTypeName name="oops.Student"/>
+    <fullyQualifiedTypeName name="oops.Demo"/>
+    <fullyQualifiedTypeName name="java.lang.Object"/>
+    <fullyQualifiedTypeName name="oops.Calc"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="J005_oops.Pen1"/>
+    <fullyQualifiedTypeName name="J005_oops.Notebook"/>
+    <fullyQualifiedTypeName name="J005_oops.RacingBike"/>
+    <fullyQualifiedTypeName name="J005_oops.sportBike"/>
+    <fullyQualifiedTypeName name="J005_oops.Access"/>
 </qualifiedTypeNameHistroy>

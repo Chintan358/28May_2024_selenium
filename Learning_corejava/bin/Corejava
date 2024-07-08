@@ -135,6 +135,18 @@ ex : public void display()
 class members can be of 2 types : 
 static and non-static
 
+**************************************************
+Inheritance : 
+
+
+********************************
+Access modifier : 
+
+private
+public
+protected
+default
+
 
 
 

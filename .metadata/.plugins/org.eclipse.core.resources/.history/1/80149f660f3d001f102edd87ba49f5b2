@@ -1,0 +1,149 @@
+Variables or Identifiers : 
+**************************************
+In Java, Variables are the data containers that save the data values during 
+Java program execution. Every Variable in Java is assigned a data type that 
+designates the type and quantity of value it can hold. A variable is a memory
+location name for thedata.
+
+1 : It should start with a lowercase letter such as id, name.
+2 : It should not start with the special characters like & (ampersand),
+	 $ (dollar), _ (underscore).
+3 : If the name contains multiple words, start it with the lowercase letter followed by 
+	an uppercase letter such as firstName, lastName.
+4 : Avoid using one-character variables such as x, y, z.
+
+Rules :
+******
+Names can contain letters, digits, underscores, and dollar signs.
+Names must begin with a letter.
+Names should start with a lowercase letter, and cannot contain whitespace.
+
+********************************************************
+Datatypes : 
+********************************************************
+byte	0	1 byte   2^7-1 to -2^7 = 127 to -128
+short	0	2 byte   2^15-1 to -2^15
+int		0	4 byte
+long	0	8 byte
+
+float	0.0	4 byte
+double	0.0	8 byte
+
+char	''	2byte
+boolean	false	1bit
+
+1bit
+8 bit = 1 byte
+1024 byte = 1kb
+1024 lb = 1 mb
+1024 mb = 1gb
+1024 gb = 1 tb
+
+
+***********************************
+Operators : 
+**********************
+Arithmatic 
++,-,/,%,*
+
+Relational :
+<,>,=<!=,<=,>=,==
+
+Logical : 
+&& , ||
+
+unary : 
+++,--
+
+Turnary : 
+condtion ?true : false
+
+***********************************
+Statements :
+
+condtional
+------------------
+if - else
+switch - case
+
+looping
+--------------
+for
+while
+do-while
+
+******************************************
+ODD-EVEN
+PRIME
+ARMSTRONG
+FACTORIAL
+FIBONACCI
+
+Pettern
+
+*********************************
+Array : 
+
+collection of same type of data
+
+types of araay : 
+1 d array
+multi d array
+
+***********************
+OOPS : 
+
+Object oriented programming
+**********************************
+class
+object
+encaptulation
+inheritance
+polumorphism
+abstraction
+
+
+Object  : real time entity
+Class : logical entity
+
+class Demo
+{
+	.......class body.....
+	//datamemeber
+	//function memeber
+}
+
+object : 
+ Demo d = new Demo();
+ 
+Property of class : 
+
+Data memeber / Variable / field
+Functio memeber / method / function
+
+
+accessmodifie returntype*  functionname*(args)
+{
+	logic
+}
+
+ex : public void display()
+	{
+		*********
+		}
+
+class members can be of 2 types : 
+static and non-static
+
+**************************************************
+Inheritance : 
+
+
+
+
+
+
+
+
+
+
