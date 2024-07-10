@@ -1,0 +1,13 @@
+package J005_oops;
+
+public class O008_Encaptulationdemo {
+	public static void main(String[] args) {
+		
+		Employee e  =new Employee();
+		e.setData(10, "Test");
+		e.display();
+		
+		
+		
+	}
+}

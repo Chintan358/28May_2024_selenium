@@ -147,6 +147,35 @@ public
 protected
 default
 
+**************************
+Encaptulation
+
+**************************
+Polumorphism
+
+one name many forms : 
+
+runtime : methodoveriding
+compile : methodoverloading
+
+************************************
+
+Abstraction : 
+
+Hiding implimantation and showing functionlity
+
+*************
+Abstract class : partial abstraction
+-contains abstrat and instance method both
+
+Interface : fully abstraction
+-contains only abstract method
+
+
+***********************
+abstract method : method without body
+
+ex : public void display();
 
 
 
