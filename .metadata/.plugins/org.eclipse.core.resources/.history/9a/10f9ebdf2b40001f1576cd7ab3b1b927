@@ -1,0 +1,29 @@
+package J005_oops;
+
+
+interface Inter1
+{
+	public void display();
+}
+
+interface Inter2
+{
+	public void show();
+}
+
+class InterImpl implements Inter1
+{
+
+	@Override
+	public void display() {
+		// TODO Auto-generated method stub
+		
+	}
+	
+}
+
+public class O012_InterfaceDemo {
+	public static void main(String[] args) {
+		
+	}
+}

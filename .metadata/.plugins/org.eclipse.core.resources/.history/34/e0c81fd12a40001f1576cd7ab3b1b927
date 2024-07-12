@@ -1,0 +1,16 @@
+package J005_oops;
+
+abstract class Abs
+{
+	public abstract void show();
+}
+
+public class O011_AbstractDemo {
+	public static void main(String[] args) {
+		
+		
+		
+		
+		
+	}
+}

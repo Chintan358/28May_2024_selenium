@@ -17,4 +17,8 @@
     <fullyQualifiedTypeName name="J005_oops.Employee"/>
     <fullyQualifiedTypeName name="J005_oops.Sample"/>
     <fullyQualifiedTypeName name="J005_oops.Q"/>
+    <fullyQualifiedTypeName name="J005_oops.AbsImpl"/>
+    <fullyQualifiedTypeName name="J005_oops.Inter2"/>
+    <fullyQualifiedTypeName name="J005_oops.Inter1"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
 </qualifiedTypeNameHistroy>

@@ -178,6 +178,31 @@ abstract method : method without body
 ex : public void display();
 
 
+****************************
+Keywords
+**************
+static
+this
+super
+final
+
+**********************************************
+IMP classes : 
+********************
+String
+String buffer
+String builder
+Wrapper
+Object
+Math
+Random
+
+
+
+
+
+
+
 
 
 

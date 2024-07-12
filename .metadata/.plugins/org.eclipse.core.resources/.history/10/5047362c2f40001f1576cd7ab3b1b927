@@ -1,0 +1,16 @@
+package J006_impclasses;
+
+public class I001_String {
+	public static void main(String[] args) {
+		
+		//string literal
+		String name = "Nikunj";
+		//by object
+		String str = new String("Tejas");
+		
+		String nname = name.concat("Kava");
+		
+		System.out.println(nname);
+		
+	}
+}
