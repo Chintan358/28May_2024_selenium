@@ -1,0 +1,15 @@
+package J006_impclasses;
+
+import java.util.Date;
+
+public class I004_date {
+	public static void main(String[] args) {
+		
+		
+		
+		Date date = new Date(11145454542l);
+		System.out.println(date);
+		
+		
+	}
+}
