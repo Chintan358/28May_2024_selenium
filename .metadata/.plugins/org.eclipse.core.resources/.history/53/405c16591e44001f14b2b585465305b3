@@ -1,0 +1,37 @@
+package practice;
+
+class HdfcBank
+{
+	double a;
+	
+		public void GetBalance()
+		{
+			
+			System.out.println(a);
+		
+		}
+		
+		public void Deposit (double amt)
+		{
+			a=a+amt;
+		}
+		
+		public void Witdraw(double amt1)
+		{
+			a=a-amt1;
+		}
+	
+}
+public class Bank {
+
+	public static void main(String[] args) {
+		
+		HdfcBank hb = new HdfcBank();
+		
+		hb.Deposit(50000);
+		
+		hb.Witdraw(40000);
+		hb.GetBalance();
+	}
+
+}

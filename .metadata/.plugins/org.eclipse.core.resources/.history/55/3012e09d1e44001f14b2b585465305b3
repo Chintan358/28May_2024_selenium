@@ -1,0 +1,39 @@
+package practice;
+
+class HdfcBank
+{
+	double balance;
+	
+		public void getBalance()
+		{
+			
+			System.out.println(balance);
+		
+		}
+		
+		public void deposit (double amt)
+		{
+			balance=balance+amt;
+		}
+		
+		public void witdraw(double amt1)
+		{
+			balance=balance-amt1;
+		}
+	
+}
+public class Bank {
+
+	public static void main(String[] args) {
+		
+		HdfcBank hb = new HdfcBank();
+		
+		hb.getBalance();
+		
+		hb.deposit(5000);
+		hb.deposit(6000);
+		hb.getBalance();
+		
+	}
+
+}
