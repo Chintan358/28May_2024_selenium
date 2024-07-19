@@ -6,8 +6,6 @@ class Demo
 	{
 		
 			Class.forName("practice.Armstrong");
-	
-		
 	}
 }
 

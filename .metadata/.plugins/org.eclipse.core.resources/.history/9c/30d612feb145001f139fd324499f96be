@@ -1,0 +1,24 @@
+package J008_fileio;
+
+import java.io.File;
+
+public class F004_file {
+	public static void main(String[] args) {
+		
+		
+		
+		File file = new File("C:\\Chintan_work\\Files\\test.txt");
+		
+		if(file.exists())
+		{
+			System.out.println("file exists...");
+		}
+		else
+		{
+			System.out.println("file is not exists...");
+		}
+		
+		
+		
+	}
+}

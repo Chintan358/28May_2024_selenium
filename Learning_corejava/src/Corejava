@@ -204,7 +204,23 @@ exeption
 
 fileio
 
-multithreading
+stream : flow of data
+
+byte
+-fileinputstream
+-fileoutputstream
+
+char
+-filereader
+-filewriter
+
+
+multithreading : 
+
+Thread class
+Runnable interface
+
+
 
 collection
 

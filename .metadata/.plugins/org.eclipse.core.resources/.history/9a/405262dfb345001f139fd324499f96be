@@ -1,0 +1,32 @@
+package thread;
+
+class T1
+{
+	public void run()
+	{
+		for(int i=1;i<=10;i++)
+		{
+			System.out.println("T1 : "+i);
+		}
+	}
+}
+
+class T2
+{
+	public void run()
+	{
+		for(int i=1;i<=10;i++)
+		{
+			System.out.println("T2 : "+i);
+		}
+	}
+}
+
+public class T001_ThreadDemo {
+	public static void main(String[] args) {
+		
+		
+		
+		
+	}
+}
