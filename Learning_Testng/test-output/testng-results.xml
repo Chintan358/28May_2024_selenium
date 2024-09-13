@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="3" total="12" passed="9" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-13T09:28:45Z" name="Suite" finished-at="2024-09-13T09:28:45Z" duration-ms="449">
+    <groups>
+    </groups>
+    <test started-at="2024-09-13T09:28:45Z" name="Test1" finished-at="2024-09-13T09:28:45Z" duration-ms="150">
+      <class name="basic.Account">
+        <test-method signature="savingAccount()[pri:0, instance:basic.Account@606e4010]" started-at="2024-09-13T14:58:45Z" name="savingAccount" finished-at="2024-09-13T14:58:45Z" duration-ms="36" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- savingAccount -->
+      </class> <!-- basic.Account -->
+      <class name="basic.Payment">
+        <test-method signature="Cod()[pri:0, instance:basic.Payment@7a35b0f5]" started-at="2024-09-13T14:58:45Z" name="Cod" finished-at="2024-09-13T14:58:45Z" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Cod -->
+        <test-method signature="creditCard()[pri:0, instance:basic.Payment@7a35b0f5]" started-at="2024-09-13T14:58:45Z" name="creditCard" finished-at="2024-09-13T14:58:45Z" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- creditCard -->
+        <test-method signature="debitCart()[pri:0, instance:basic.Payment@7a35b0f5]" started-at="2024-09-13T14:58:45Z" name="debitCart" finished-at="2024-09-13T14:58:45Z" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- debitCart -->
+      </class> <!-- basic.Payment -->
+    </test> <!-- Test1 -->
+    <test started-at="2024-09-13T09:28:45Z" name="Test2" finished-at="2024-09-13T09:28:45Z" duration-ms="58">
+      <class name="basic.Account">
+        <test-method signature="currentAcoount()[pri:0, instance:basic.Account@183ec003]" started-at="2024-09-13T14:58:45Z" name="currentAcoount" finished-at="2024-09-13T14:58:45Z" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- currentAcoount -->
+        <test-method signature="loanAccount()[pri:0, instance:basic.Account@183ec003]" started-at="2024-09-13T14:58:45Z" name="loanAccount" finished-at="2024-09-13T14:58:45Z" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loanAccount -->
+      </class> <!-- basic.Account -->
+      <class name="basic.Payment">
+        <test-method signature="Cod()[pri:0, instance:basic.Payment@7d9d0818]" started-at="2024-09-13T14:58:45Z" name="Cod" finished-at="2024-09-13T14:58:45Z" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Cod -->
+        <test-method signature="creditCard()[pri:0, instance:basic.Payment@7d9d0818]" started-at="2024-09-13T14:58:45Z" name="creditCard" finished-at="2024-09-13T14:58:45Z" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- creditCard -->
+        <test-method signature="debitCart()[pri:0, instance:basic.Payment@7d9d0818]" started-at="2024-09-13T14:58:45Z" name="debitCart" finished-at="2024-09-13T14:58:45Z" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- debitCart -->
+      </class> <!-- basic.Payment -->
+    </test> <!-- Test2 -->
+  </suite> <!-- Suite -->
+</testng-results>
