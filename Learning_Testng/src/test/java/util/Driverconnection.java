@@ -12,11 +12,11 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import com.google.common.io.Files;
 
 public class Driverconnection {
-	
+	public static WebDriver driver;
 	public static WebDriver connect(String url)
 	{
 		System.setProperty("webdriver.chrome.driver", "C:\\Chintan_work\\seleniumdata\\chromedriver-win64\\chromedriver.exe");
-		WebDriver driver = new ChromeDriver();
+		 driver = new ChromeDriver();
 		driver.get(url);
 		driver.manage().window().maximize();
 		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(30));
@@ -25,7 +25,7 @@ public class Driverconnection {
 	}
 	
 	
-	public static void screenShot(WebDriver driver, String name)
+	public static void screenShot(String name)
 	{
 		TakesScreenshot ts = (TakesScreenshot) driver;
 		

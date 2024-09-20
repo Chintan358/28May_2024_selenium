@@ -2,15 +2,16 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
   <listeners>
-    <listener class-name="listener.MyTestListener"/>
+    <listener class-name="listener.MyFbTestListenr"/>
   </listeners>
   <test name="Test(failed)">
     <classes>
-      <class name="listener.MyTest">
+      <class name="listener.MyFbTest">
         <methods>
-          <include name="test1"/>
+          <include name="titleCheck"/>
+          <include name="loginTest"/>
         </methods>
-      </class> <!-- listener.MyTest -->
+      </class> <!-- listener.MyFbTest -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->

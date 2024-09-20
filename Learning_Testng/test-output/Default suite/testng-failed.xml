@@ -3,13 +3,12 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test name="Default test(failed)">
     <classes>
-      <class name="com.Dependancy">
+      <class name="listener.MyFbTest">
         <methods>
-          <include name="logout"/>
-          <include name="home"/>
-          <include name="login"/>
+          <include name="titleCheck"/>
+          <include name="loginTest"/>
         </methods>
-      </class> <!-- com.Dependancy -->
+      </class> <!-- listener.MyFbTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
