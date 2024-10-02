@@ -14,9 +14,9 @@
     </Root>
     
     
-    <Logger name="com.MyTest" level="info" additivity="false">
+  <!--   <Logger name="com.MyTest" level="info" additivity="false">
       <AppenderRef ref="Console"/>
-    </Logger>
+    </Logger> -->
     
         <Logger name="com.MyTest2" level="error" additivity="false">
       <AppenderRef ref="Console"/>
